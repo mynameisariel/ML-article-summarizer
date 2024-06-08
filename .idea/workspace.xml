@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c820a8f3-c0a3-4eba-87c8-ea0557ee8a36" name="Changes" comment="imports and initial stuff">
+    <list default="true" id="c820a8f3-c0a3-4eba-87c8-ea0557ee8a36" name="Changes" comment="script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -22,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mynameisariel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="42ae6ec6-41d1-4447-8bc7-75911c254ffe" />
+        <option name="url" value="https://github.com/mynameisariel/ML-article-summarizer.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -64,11 +78,37 @@
       <option name="project" value="LOCAL" />
       <updated>1717807948837</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="imports and initial stuff">
+      <option name="closed" value="true" />
+      <created>1717809385635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717809385635</updated>
+    </task>
+    <task id="LOCAL-00003" summary="imports and initial stuff&#10;script">
+      <option name="closed" value="true" />
+      <created>1717809457757</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717809457757</updated>
+    </task>
+    <task id="LOCAL-00004" summary="script">
+      <option name="closed" value="true" />
+      <created>1717809598916</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717809598916</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="imports and initial stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="imports and initial stuff" />
+    <MESSAGE value="imports and initial stuff&#10;script" />
+    <MESSAGE value="script" />
+    <option name="LAST_COMMIT_MESSAGE" value="script" />
   </component>
 </project>
