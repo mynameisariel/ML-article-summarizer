@@ -1,3 +1,5 @@
+# video tutorial: https://www.youtube.com/watch?v=z4DQYprjPSs&list=PL7yh-TELLS1G9mmnBN3ZSY8hYgJ5kBOg-&index=5&pp=iAQB
+
 import tkinter as tk
 import nltk
 from textblob import TextBlob
